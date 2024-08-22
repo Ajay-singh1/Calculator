@@ -12,7 +12,7 @@
   <li>Use a web browser to launch the index.html file or you can run it in visual studio code with live server.</li>
   
 </ol>
-![calculator](https://github.com/user-attachments/assets/c87baf24-ad5b-410b-94c0-ab6333fb6c81)
 
+![calculator](https://github.com/user-attachments/assets/c87baf24-ad5b-410b-94c0-ab6333fb6c81)
 
 
